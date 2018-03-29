@@ -7,6 +7,8 @@
 *        }
 *  };
 */
+
+//use nullptr to judge a pointer is null
 class Solution {
 public:
     vector<int> printListFromTailToHead(ListNode* head) {
